@@ -1,0 +1,7 @@
+0 i_love_you
+1 hello
+2 no
+3 yess
+4 bathroom
+5 papa
+
